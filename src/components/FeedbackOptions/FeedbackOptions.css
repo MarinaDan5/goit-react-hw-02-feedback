@@ -1,0 +1,19 @@
+.clickButton {
+  background-color: black;
+  color: aqua;
+  padding: 18px;
+  width: 150px;
+  cursor: pointer;
+}
+.clickButton:not(:last-child) {
+  margin-right: 10px;
+}
+.statistic-title {
+  font-weight: 500;
+  color: rgb(243, 17, 17);
+}
+.statistic-item {
+  color: sienna;
+  font-size: 20px;
+  font-weight: 700;
+}
